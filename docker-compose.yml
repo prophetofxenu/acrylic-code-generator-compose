@@ -1,0 +1,9 @@
+services:
+  api:
+    build: api/
+  ui:
+    build: ui/
+  proxy:
+    build: proxy/
+    ports:
+      - "3000:80"
