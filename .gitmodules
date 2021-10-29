@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/prophetofxenu/acrylic-code-generator-api.git
+[submodule "ui"]
+	path = ui
+	url = https://github.com/prophetofxenu/acrylic-code-generator-ui.git
